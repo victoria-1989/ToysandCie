@@ -32,13 +32,16 @@ Le projet s'est déroulé en plusieurs étapes :
 - [Technologies](#technologies)
 
 ## Sources
-Les données mise en oeuvres pour ce projets ont été collecté sur [IMDB](https://www.imdb.com/) et [TMDB](https://www.themoviedb.org/)      
-![imdb](img/imdb-color.svg) ([Notice](https://developer.imdb.com/non-commercial-datasets/)) :  https://datasets.imdbws.com/  
-![tmdb](img/themoviedatabase-color.svg) ([Notice et API](https://developer.themoviedb.org/docs/image-basics/)) : https://drive.google.com/file/d/1VB5_gl1fnyBDzcIOXZ5vUSbCY68VZN1v/view/
+Serveur cloud
+Vous pouvez vous connecter au serveur MariaDB (un fork de MySQL) de l'entreprise.
+Hostname : 51.178.25.157
+Port : 23456
+Username : toyscie
+Password : WILD4Rdata!
     
 ## Livrables
 
-* Nettoyage, exploration, visualisation des données : Dictionnaire: [fichier Raw]([Dictionnaire - Projet 1.docx](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Dictionnaire%20-%20Projet%201.docx).
+* Nettoyage, exploration, visualisation des données : Dictionnaire: [fichier Raw](Dictionnaire - Projet 1.docx](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Dictionnaire%20-%20Projet%201.docx).
 * Support de présentation en pdf: [slide_presentation](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_Toys__Cie.pdf)
 * Application : ouvrez à partir de l'url suivante : [page_powerBI](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_SQL_Toys__Cie1.pbix)
 
