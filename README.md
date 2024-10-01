@@ -1,4 +1,4 @@
-# Projet1_wild_code_school
+# Premier projet de formation à la WCC
 ![Image d'illustration.png](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Image%20d'illustration.png)
 ## Description
 
