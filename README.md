@@ -48,4 +48,4 @@ Nettoyage: [jupyter_notebook](https://github.com/victoria-1989/Projet1_wild_code
 
 ## Technologies
 | MYSQL | Trello | VS code |
-|Power BI|------------------|--------|
+|Power BI|
