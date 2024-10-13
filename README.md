@@ -1,4 +1,4 @@
-# Premier projet de formation à la WCC
+# Projet Toy's and Cie
 ![Image d'illustration.png](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Image%20d'illustration.png)
 ## Description
 
