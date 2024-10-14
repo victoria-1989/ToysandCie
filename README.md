@@ -47,5 +47,5 @@ Nettoyage: [jupyter_notebook](https://github.com/victoria-1989/Projet1_wild_code
 * Application : ouvrez à partir de l'url suivante : [page_powerBI](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_SQL_Toys__Cie1.pbix)
 
 ## Technologies
-| Python | Machine Learning | VS code/ Google Colab |
-|Airtable|
+| MYSQL | Trello | VS code |
+|Power BI|
