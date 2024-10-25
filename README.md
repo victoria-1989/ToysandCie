@@ -1,5 +1,13 @@
 # Projet Toy's and Cie
-![Image d'illustration.png](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Image%20d'illustration.png)
+![Image d'illustration.png](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Image%20d'illustration.png)<br>
+
+## Table des matières
+- [Description](#description)
+- [Objectif du projet](#objectif-du-projet)
+- [Sources](#sources)
+- [Livrables](#livrables)
+- [Technologies](#technologies)
+
 ## Description
 
 Bienvenue sur le dépôt GitHub de notre projet de groupe réalisé pendant notre formation en Data Analyse avec la Wild code School. Ce projet a été mené par Julien, Marion et moi dans le cadre de notre cursus.
@@ -25,11 +33,6 @@ Le projet s'est déroulé en plusieurs étapes :
 * Système de Recommandation : Utiliser des algorithmes de machine learning pour recommander des films en fonction de ceux appréciés par le spectateur.
 * Affichage et Interface : Afficher les recommandations et les KPI sur une interface utilisateur, ainsi que des images de films récupérées depuis une base complémentaire de TMDB.
 
-
-## Table des matières
-- [Sources](#sources)
-- [Livrables](#livrables)
-- [Technologies](#technologies)
 
 ## Sources
 Serveur cloud
