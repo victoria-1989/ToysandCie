@@ -47,8 +47,23 @@ Password : WILD4Rdata!
 * Nettoyage, exploration, visualisation des données : Dictionnaire: [fichier Raw](Dictionnaire - Projet 1.docx](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Dictionnaire%20-%20Projet%201.docx).
 Nettoyage: [jupyter_notebook](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_1.ipynb)
 * Support de présentation en pdf: [slide_presentation](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_Toys__Cie.pdf)
-* Application : ouvrez à partir de l'url suivante : [page_powerBI](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_SQL_Toys__Cie1.pbix)
+* Visualisation : ouvrez à partir de l'url suivante : [page_powerBI](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_SQL_Toys__Cie1.pbix)
 
+## Visualisation
+
+Voici quelques visualisations de données du projet **ToysandCie** :
+
+| ![Analyse des Ventes](visualisation/analyse_ventes.JPG) | ![Commandes](visualisation/commandes.JPG) |
+|---------------------------------------------------------|-------------------------------------------|
+| **Analyse des Ventes**                                  | **Commandes**                             |
+
+| ![Logistique](visualisation/logistique.JPG)             | ![Ressources Humaines](visualisation/RH.JPG) |
+|---------------------------------------------------------|----------------------------------------------|
+| **Logistique**                                          | **Ressources Humaines**                     |
+
+| <img src="visualisation/CA.JPG" alt="Chiffre d'Affaire" width="500"/> |                                              |
+|---------------------------------------------------------|----------------------------------------------|
+| **Chiffre d'Affaire**                                   |                                              |
 ## Technologies
 | MYSQL | Trello | VS code |
 |Power BI|
