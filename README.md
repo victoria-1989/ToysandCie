@@ -6,6 +6,7 @@
 - [Objectif du projet](#objectif-du-projet)
 - [Sources](#sources)
 - [Livrables](#livrables)
+- [Visualisation](#visualisation)
 - [Technologies](#technologies)
 
 ## Description
